@@ -1,0 +1,11 @@
+{
+    "name": "com.allomr.allomr",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "displayName": "pushs",
+    "dependencies": {
+        "phonegap": "^9.0.0"
+    }
+}
